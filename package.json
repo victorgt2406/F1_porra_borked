@@ -1,0 +1,19 @@
+{
+  "name": "f1_porra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorgt2406/F1_porra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorgt2406/F1_porra/issues"
+  },
+  "homepage": "https://github.com/victorgt2406/F1_porra#readme"
+}
