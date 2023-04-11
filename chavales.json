@@ -1,0 +1,405 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "4ae663d4-940c-4738-a3e4-6488b6a34195",
+            "created_time": "2023-03-01T21:31:00.000Z",
+            "last_edited_time": "2023-03-01T21:39:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "7a18caee-bb24-4c52-8edb-34525448040d"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "7a18caee-bb24-4c52-8edb-34525448040d"
+            },
+            "cover": null,
+            "icon": {
+                "type": "emoji",
+                "emoji": "👲"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "eecf9610-ad7f-4ff3-8f29-6e13281fe721"
+            },
+            "archived": false,
+            "properties": {
+                "Total pilotos": {
+                    "id": "%5C%3AGM",
+                    "type": "rollup",
+                    "rollup": {
+                        "type": "number",
+                        "number": 0,
+                        "function": "sum"
+                    }
+                },
+                "🤑 Porra": {
+                    "id": "_%40%60~",
+                    "type": "relation",
+                    "relation": [
+                        {
+                            "id": "cadd7a68-ddc5-4946-bd59-92ea9da9a147"
+                        },
+                        {
+                            "id": "31f973e3-4dd3-4757-8a08-c23f19cf8a0b"
+                        },
+                        {
+                            "id": "34e7dd2d-b93d-4c8f-b21e-7d0d8c153968"
+                        },
+                        {
+                            "id": "66814e62-cfd6-4741-9d31-f04f16b70cde"
+                        },
+                        {
+                            "id": "435a4199-fd40-43c0-abc6-6a1abb794896"
+                        },
+                        {
+                            "id": "24917f8a-9c7a-4936-9869-4b5547c9c390"
+                        },
+                        {
+                            "id": "e62ec5c1-a749-406a-ba2e-9b2926259df0"
+                        },
+                        {
+                            "id": "09437dcd-f053-4a0e-b9ba-1370c62a60cf"
+                        },
+                        {
+                            "id": "6467b4b5-1ed1-4866-a191-d68413669270"
+                        },
+                        {
+                            "id": "244dbb26-0dc6-4941-89b6-cb369f7fe0a5"
+                        },
+                        {
+                            "id": "230152ff-7c94-473a-abe4-b4829fc6541f"
+                        },
+                        {
+                            "id": "b8446e7c-4327-439c-86d1-567ef4dd6c97"
+                        },
+                        {
+                            "id": "ece2b0de-d265-45f8-82cb-5f7f52b86526"
+                        },
+                        {
+                            "id": "bc57bb74-d6ac-473d-8e24-9052b7f9ed82"
+                        },
+                        {
+                            "id": "00fe739a-3085-44f9-a5ee-53ef45a00550"
+                        },
+                        {
+                            "id": "06a40114-86e0-479c-a428-533db584e667"
+                        },
+                        {
+                            "id": "550b4f9f-3146-4ff5-909e-b09071ad52e7"
+                        },
+                        {
+                            "id": "703ccc58-57f1-4528-8352-b93078244101"
+                        },
+                        {
+                            "id": "a616ce07-f0c5-4e3c-bb62-8f0655488403"
+                        },
+                        {
+                            "id": "acf14325-0d2c-4e06-8d92-ae95d0862a95"
+                        },
+                        {
+                            "id": "cffcd97a-b6bc-488d-a1c6-1dbd4b6cee07"
+                        },
+                        {
+                            "id": "e3ad2af5-89ae-4ad8-a589-91391d0052bf"
+                        },
+                        {
+                            "id": "2016b246-0162-46ca-969e-707f5b083656"
+                        },
+                        {
+                            "id": "32419dc8-a0d3-4f32-8e3b-e928a4cf2021"
+                        },
+                        {
+                            "id": "5ac8c9fb-5934-45a6-80b5-d406b9bcf9d0"
+                        }
+                    ],
+                    "has_more": true
+                },
+                "Total escuderías": {
+                    "id": "hmxL",
+                    "type": "rollup",
+                    "rollup": {
+                        "type": "number",
+                        "number": 0,
+                        "function": "sum"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Dax",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Dax",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Dax-4ae663d4940c4738a3e46488b6a34195"
+        },
+        {
+            "object": "page",
+            "id": "5ef7b3bd-ce76-4e85-b6b0-2762da66fbfd",
+            "created_time": "2023-02-28T16:52:00.000Z",
+            "last_edited_time": "2023-03-01T21:43:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "7a18caee-bb24-4c52-8edb-34525448040d"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "7a18caee-bb24-4c52-8edb-34525448040d"
+            },
+            "cover": null,
+            "icon": {
+                "type": "emoji",
+                "emoji": "🧞"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "eecf9610-ad7f-4ff3-8f29-6e13281fe721"
+            },
+            "archived": false,
+            "properties": {
+                "Total pilotos": {
+                    "id": "%5C%3AGM",
+                    "type": "rollup",
+                    "rollup": {
+                        "type": "number",
+                        "number": 0,
+                        "function": "sum"
+                    }
+                },
+                "🤑 Porra": {
+                    "id": "_%40%60~",
+                    "type": "relation",
+                    "relation": [
+                        {
+                            "id": "1a221fd0-95ba-49c3-8f41-1b4899ee8215"
+                        },
+                        {
+                            "id": "2db8fa42-b243-4500-a7df-9a5714ba23df"
+                        },
+                        {
+                            "id": "59347e36-01d9-4bac-840b-3de8c9029aee"
+                        },
+                        {
+                            "id": "3cbd15e8-ce87-4b46-b367-3a342710d349"
+                        },
+                        {
+                            "id": "f18c5f66-92e5-4a1f-9f96-e4293cbdc321"
+                        },
+                        {
+                            "id": "c8883463-ae38-42e8-a8c7-934d8ca6dbc7"
+                        },
+                        {
+                            "id": "09a29ddd-09d8-4efc-86b6-cddf101991aa"
+                        },
+                        {
+                            "id": "8b0198e1-f3d0-4b73-a817-69210de66580"
+                        },
+                        {
+                            "id": "89908066-fcef-4c8d-ab6b-bbee52be64ad"
+                        },
+                        {
+                            "id": "f69fcd05-9f4c-42ea-84bf-0c98a1ea99ec"
+                        },
+                        {
+                            "id": "63c7213d-c14b-435c-8c38-de5a1ba22d2e"
+                        },
+                        {
+                            "id": "9c9a173b-7520-4a6e-b5b0-fb614c77a79a"
+                        },
+                        {
+                            "id": "dfb2f58f-bcb3-4dd3-9b4b-30f98a4d56a6"
+                        },
+                        {
+                            "id": "66fe76a7-d24f-4089-b29f-28b06f0c44b7"
+                        },
+                        {
+                            "id": "b3c4cde5-a4e5-4ba6-bf9c-e3b484b67d6a"
+                        },
+                        {
+                            "id": "086f03dd-0981-40b6-b8b3-a9374543fe0e"
+                        },
+                        {
+                            "id": "bce41bbd-b393-42fb-b9c1-9d517e5465f0"
+                        },
+                        {
+                            "id": "4d731b07-8cc5-4851-9fc6-b5e9f3aba2d2"
+                        },
+                        {
+                            "id": "8dd47be7-2335-4055-8a40-845f8a256b4e"
+                        },
+                        {
+                            "id": "903e1463-c7ed-403f-a6f0-beed2d6eff70"
+                        },
+                        {
+                            "id": "a0aba84c-ebe9-40eb-856d-ac32162b3cb7"
+                        },
+                        {
+                            "id": "2d5753ba-a744-4315-8227-eb6d4834ddb3"
+                        }
+                    ],
+                    "has_more": true
+                },
+                "Total escuderías": {
+                    "id": "hmxL",
+                    "type": "rollup",
+                    "rollup": {
+                        "type": "number",
+                        "number": 0,
+                        "function": "sum"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Cuadrado",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Cuadrado",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Cuadrado-5ef7b3bdce764e85b6b02762da66fbfd"
+        },
+        {
+            "object": "page",
+            "id": "a01b5568-a83a-4d61-93f9-2e847417db75",
+            "created_time": "2023-02-28T16:52:00.000Z",
+            "last_edited_time": "2023-03-01T21:40:00.000Z",
+            "created_by": {
+                "object": "user",
+                "id": "7a18caee-bb24-4c52-8edb-34525448040d"
+            },
+            "last_edited_by": {
+                "object": "user",
+                "id": "7a18caee-bb24-4c52-8edb-34525448040d"
+            },
+            "cover": null,
+            "icon": {
+                "type": "emoji",
+                "emoji": "✌️"
+            },
+            "parent": {
+                "type": "database_id",
+                "database_id": "eecf9610-ad7f-4ff3-8f29-6e13281fe721"
+            },
+            "archived": false,
+            "properties": {
+                "Total pilotos": {
+                    "id": "%5C%3AGM",
+                    "type": "rollup",
+                    "rollup": {
+                        "type": "number",
+                        "number": 0,
+                        "function": "sum"
+                    }
+                },
+                "🤑 Porra": {
+                    "id": "_%40%60~",
+                    "type": "relation",
+                    "relation": [
+                        {
+                            "id": "2eace308-9218-4c77-99ca-247554d8648c"
+                        },
+                        {
+                            "id": "2c647efb-0923-47b0-95ab-e297c0e9f37f"
+                        },
+                        {
+                            "id": "a06b2557-5b8e-4a4d-9d2e-85d6117a9374"
+                        },
+                        {
+                            "id": "c40cd122-28ce-428b-808d-bb08ef88b91e"
+                        },
+                        {
+                            "id": "372ca207-554f-45fb-bb4a-1cadaf0e11b4"
+                        },
+                        {
+                            "id": "69d61a59-e3cb-479c-b251-94d1b9ba793c"
+                        },
+                        {
+                            "id": "2b3d48f0-78a4-4e20-9f3e-1a5cfe1ef26a"
+                        },
+                        {
+                            "id": "67c91a74-8c56-495b-a014-1901223bbc37"
+                        },
+                        {
+                            "id": "24e0c9a6-bbf7-4a74-815d-bb4d657cb73f"
+                        },
+                        {
+                            "id": "23b9afcb-d0d6-4f91-a071-c92e7d5a29e8"
+                        }
+                    ],
+                    "has_more": true
+                },
+                "Total escuderías": {
+                    "id": "hmxL",
+                    "type": "rollup",
+                    "rollup": {
+                        "type": "number",
+                        "number": 0,
+                        "function": "sum"
+                    }
+                },
+                "Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Vic",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Vic",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Vic-a01b5568a83a4d6193f92e847417db75"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false,
+    "type": "page",
+    "page": {}
+}
