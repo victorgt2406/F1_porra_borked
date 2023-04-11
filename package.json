@@ -20,6 +20,7 @@
   "homepage": "https://github.com/victorgt2406/F1_porra#readme",
   "dependencies": {
     "@notionhq/client": "^2.2.3",
+    "axios": "^1.3.5",
     "dotenv": "^16.0.3"
   },
   "devDependencies": {
